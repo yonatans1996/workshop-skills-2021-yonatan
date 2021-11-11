@@ -1,1 +1,3 @@
 file2 from master
+file2 from b2
+
